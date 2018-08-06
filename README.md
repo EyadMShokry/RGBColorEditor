@@ -1,1 +1,1 @@
-# RGBColorEditor
+# RGBColorMaker
